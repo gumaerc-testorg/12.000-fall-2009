@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: dc430500-24b7-d73c-a039-993e16bb54a7
 title: 'Wiki and Web Site Instructions '
 uid: f92edf15-8bcb-16b0-742a-381ec93dbf03

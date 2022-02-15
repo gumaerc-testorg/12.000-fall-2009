@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0e138d85-5188-602f-49af-c09303529c8d
 ---
@@ -12,11 +14,11 @@ Lectures: 3 sessions / week, 1 hour / session
 Course Description
 ------------------
 
-_12.000 Solving Complex Problems_ is designed to provide students the opportunity to work as part of a team to propose solutions to a complex problem that requires an interdisciplinary approach. For the students of the class of 2013, 12.000 will revolve around the issues associated with what we can and must do about the steadily increasing amounts CO2 in Earth's atmosphere.
+_12.000 Solving Complex Problems_ is designed to provide students the opportunity to work as part of a team to propose solutions to a complex problem that requires an interdisciplinary approach. For the students of the class of 2013, 12.000 will revolve around the issues associated with what we can and must do about the steadily increasing amounts CO{{< sub "2" >}} in Earth's atmosphere.
 
-In this class, students will be tasked with solving the large and complex problems necessary to sequester enough carbon to stop the steady increase of atmospheric CO2 and to stabilize it. While reducing or eliminating greenhouse gas emissions is a good strategy that must be pursued, it will not be enough and we must also find ways of removing CO2 from the atmosphere and sequestering it in geologically stable reservoirs. There are many possible ways to sequester CO2, including storing in porous rock formations, the deep ocean, forests and soils, and precipitating carbonate minerals to name a few. However, the capture, transport, and sequestration of CO2 will be logistically complex, incredibly expensive, and require unprecedented international cooperation.
+In this class, students will be tasked with solving the large and complex problems necessary to sequester enough carbon to stop the steady increase of atmospheric CO{{< sub "2" >}} and to stabilize it. While reducing or eliminating greenhouse gas emissions is a good strategy that must be pursued, it will not be enough and we must also find ways of removing CO{{< sub "2" >}} from the atmosphere and sequestering it in geologically stable reservoirs. There are many possible ways to sequester CO{{< sub "2" >}}, including storing in porous rock formations, the deep ocean, forests and soils, and precipitating carbonate minerals to name a few. However, the capture, transport, and sequestration of CO{{< sub "2" >}} will be logistically complex, incredibly expensive, and require unprecedented international cooperation.
 
-**Your Mission is to propose an integrated global solution to the rapid rise in atmospheric CO2 that will stabilize concentrations at an economically viable and internationally acceptable level**. Mission 2013 will focus on the issues associated managing our planet's atmosphere. Attempting to control the concentrations of greenhouse gases is an enormous, complex problem that will require a major interdisciplinary, international, innovative effort unlike anything ever attempted in human history.
+**Your Mission is to propose an integrated global solution to the rapid rise in atmospheric CO{{< sub "2" >}} that will stabilize concentrations at an economically viable and internationally acceptable level**. Mission 2013 will focus on the issues associated managing our planet's atmosphere. Attempting to control the concentrations of greenhouse gases is an enormous, complex problem that will require a major interdisciplinary, international, innovative effort unlike anything ever attempted in human history.
 
 More background can be found in the introductory lecture: ([PDF]({{< baseurl >}}/resources/mit12_000f09_lec_intro))
 
