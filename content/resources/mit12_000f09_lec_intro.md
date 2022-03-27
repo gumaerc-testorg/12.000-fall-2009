@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 0e138d85-5188-602f-49af-c09303529c8d
 resourcetype: Document
 title: Introductory Lecture
 uid: b54755ac-3fc3-e770-d635-b1c12d91b8a7
