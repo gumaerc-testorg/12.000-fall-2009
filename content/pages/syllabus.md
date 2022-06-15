@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, structure, a note on Mission classes.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -20,7 +22,7 @@ In this class, students will be tasked with solving the large and complex proble
 
 **Your Mission is to propose an integrated global solution to the rapid rise in atmospheric CO{{< sub "2" >}} that will stabilize concentrations at an economically viable and internationally acceptable level**. Mission 2013 will focus on the issues associated managing our planet's atmosphere. Attempting to control the concentrations of greenhouse gases is an enormous, complex problem that will require a major interdisciplinary, international, innovative effort unlike anything ever attempted in human history.
 
-More background can be found in the introductory lecture: ([PDF]({{< baseurl >}}/resources/mit12_000f09_lec_intro))
+More background can be found in the introductory lecture: ({{% resource_link b54755ac-3fc3-e770-d635-b1c12d91b8a7 "PDF" %}})
 
 Course Structure
 ----------------

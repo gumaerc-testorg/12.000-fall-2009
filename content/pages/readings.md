@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of books and web resources that provide
+  useful background information for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

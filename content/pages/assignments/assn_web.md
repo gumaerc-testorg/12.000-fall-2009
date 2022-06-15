@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on team wikis, the class wiki, project
+  web sites, and general web site design tips.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
