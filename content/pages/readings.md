@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a list of books and web resources that provide
+  useful background information for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7ab0de8f-51c4-3de7-449a-52d5fcb517c9
 ---
@@ -26,6 +31,6 @@ Web Resources
 
 [Greenhouse Gas Emissions Simulator](http://scripts.mit.edu/~jsterman/climate/master/) (MIT System Dynamics Group). Simple tool for aiding comprehension of climate change dynamics. Interactive simulation of introductory concepts in system dynamics.
 
-[Hard Truths: Facing the Hard Truths about Energy](http://www.npchardtruthsreport.org) (National Petroleum Council). Excellent document; see pages 231-235 (carbon management), and 237-240 (CO2 sequestration). (Under Final 2007 Report, select Download Report, then Chapter Five: Carbon Management.)
+[Hard Truths: Facing the Hard Truths about Energy](http://www.npchardtruthsreport.org) (National Petroleum Council). Excellent document; see pages 231-235 (carbon management), and 237-240 (CO{{< sub "2" >}} sequestration). (Under Final 2007 Report, select Download Report, then Chapter Five: Carbon Management.)
 
 [Survey of Energy Resources: Interim Update 2009](http://web.mit.edu/mission/www/m2013/ser_interim_update_2009_final.pdf) (World Energy Council). A country by country interim assessment of resources. Good reference.

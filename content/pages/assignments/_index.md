@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the course assignments, including
+  final deliverables and a travel blog.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: dc430500-24b7-d73c-a039-993e16bb54a7
 ---
@@ -29,7 +34,7 @@ Each team will be assigned one or two undergraduate teaching fellows (UTFs) and 
 
 The challenges presented to the class will be fulfilled when two assignments are completed.
 
-First, the class must create a content-rich Web site to describe and justify its overall design. More information about the Web site and supporting wikis [can be found here]({{< baseurl >}}/pages/assignments/assn_web).
+First, the class must create a content-rich Web site to describe and justify its overall design. More information about the Web site and supporting wikis {{% resource_link f92edf15-8bcb-16b0-742a-381ec93dbf03 "can be found here" %}}.
 
 Second, the class will make a final, one-two hour, oral presentation of its solution in early December. This presentation will be open to the entire MIT community. In addition, a panel of experts will be invited to attend the presentation and to critique them in an open forum. Because it would be logistically difficult for everyone to speak during the presentation, the staff recommends that each team elect one member to join a presentation committee that will choreograph the final presentation. The committee member should not bear sole responsibility for the work involved in developing the presentation!
 
