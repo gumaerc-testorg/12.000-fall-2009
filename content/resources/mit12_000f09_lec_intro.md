@@ -5,7 +5,7 @@ description: 'Lecture presentation on Terrascope, solving complex problems, past
   integrated global solution to the rapid rise in atmospheric carbon dioxide that
   will stabilize concentrations at an economically viable and internationally acceptable
   level. '
-file: /ol-ocw-studio-app/courses/12-000-solving-complex-problems-fall-2009/b54755ac3fc3e770d635b1c12d91b8a7_MIT12_000F09_lec_intro.pdf
+file: /courses/12-000-solving-complex-problems-fall-2009/b54755ac3fc3e770d635b1c12d91b8a7_MIT12_000F09_lec_intro.pdf
 file_size: 574983
 file_type: application/pdf
 learning_resource_types: []
